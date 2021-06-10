@@ -1,0 +1,6 @@
+{
+  "name": "chatbot-maia",
+  "description": "MDS's Maia chatbot",
+  "repository": "https://github.com/amandahagy/chatbot-maia",
+  "keywords": ["api.ai", "dialogflow", "natural language"]
+}
