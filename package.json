@@ -1,0 +1,14 @@
+{
+  "name": "chatbot-maia",
+  "version": "1.0.0",
+  "description": "MDS's chatbot Maia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Amanda Hagy",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
